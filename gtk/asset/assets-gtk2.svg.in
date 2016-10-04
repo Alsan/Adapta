@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="assets-gtk2.svg.in">
+   sodipodi:docname="assets-gtk2.svg">
   <defs
      id="defs4">
     <filter
@@ -6440,16 +6440,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="143.99063"
-     inkscape:cy="670.37943"
+     inkscape:zoom="0.70710675"
+     inkscape:cx="26.003768"
+     inkscape:cy="303.82657"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="732"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1333"
+     inkscape:window-height="704"
+     inkscape:window-x="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -6496,7 +6496,7 @@
      transform="translate(0,340)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#3e515a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.96290588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0"
+       style="opacity:1;fill:#1c1c1c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.96290588;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:478.43673706;stroke-opacity:0"
        id="rect4444"
        width="160"
        height="320"
